@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-        // Original code
         int size = NameRepository.getSize();
         System.out.println("Initial size: " + size);
 
